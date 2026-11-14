@@ -191,35 +191,7 @@ Through these practical activities, I gained experience in:
 - Network topology visualization using Zenmap.
 - Identifying potential information exposure and documenting security observations.
 
-## 6. Project Structure
-
-```text
-week-02-footprinting-and-network-scanning/
-│
-├── README.md
-│
-├── report/
-│   └── WEEK-2.pdf
-│
-├── screenshots/
-│   ├── footprinting/
-│   │   ├── whois.png
-│   │   ├── whatweb.png
-│   │   ├── nslookup.png
-│   │   ├── curl-headers.png
-│   │   ├── wafw00f.png
-│   │   └── dnsrecon.png
-│   │
-│   └── network-scanning/
-│       ├── zenmap-host-discovery.png
-│       └── network-topology.png
-│
-└── documentation/
-    ├── findings-and-risk-analysis.md
-    └── recommendations.md
-```
-
-## 7. Disclaimer
+## 6. Disclaimer
 
 This project was conducted for educational and research purposes as part of a cybersecurity internship.
 
