@@ -92,7 +92,7 @@ I performed reconnaissance against `networkwalks.com` using six Kali Linux tools
 
 **Evidence:**
 
-![cURL evidence](screenshots/footprinting/curl-headers.png)
+![cURL evidence](screenshots/footprinting/curl.png)
 
 ### 1.5 Wafw00f
 
@@ -143,11 +143,11 @@ These addresses represent the network results documented in the practical report
 
 ### Host Discovery Evidence
 
-![Zenmap host discovery](screenshots/network-scanning/zenmap-host-discovery.png)
+![Zenmap host discovery](screenshots/network-scanning/zenmap.png)
 
 ### Network Topology
 
-![Zenmap network topology](screenshots/network-scanning/network-topology.png)
+![Zenmap network topology](screenshots/network-scanning/Toplogy.png)
 
 ## 3. Risk Analysis and Potential Impact
 
